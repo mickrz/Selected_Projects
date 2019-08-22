@@ -1,6 +1,6 @@
 # Selected Projects
 
-I try to spend time every day to learn something new where much of it has come from MOOC projects the past 2-3 years. It ranges from Machine Learning, Deep Learning to Android App Development to Algorithms. I'm going through everything to add more notes and add more visuals where appropriate.
+I try to spend time every day to learn something new where much of it has come from MOOC projects the past 2-3 years. It ranges from self-driving cars to Android app development to algorithms. I'm going through everything to add more notes and add more visuals where appropriate.
 
 ## [Traffic Sign Classifier (Self-driving car Nanodegree)](https://github.com/mickrz/SelfDrivingCarNanoDegree/blob/master/term1/Project2%20-%20Traffic%20Sign%20Classifier/Traffic_Sign_Classifier.html)
 
@@ -28,7 +28,7 @@ The FTC has lots of informative videos though...
 
 ## [A* Algorithm (Data Structures & Algorithms Nanodegree)](https://github.com/mickrz/Data_Structures_And_Algorithms/blob/master/Project4/Astar.py)
 
-The implementation for A* algorithm was required for the final project in this nanodegree. This was one of the many fun ones to do. Conceptually, it is easy to understand since it combines the Djikstra and Greedy Best-frist-Search. My implementation is problably a little different than is typically done as I used recursion. It seemed appropriate and I reinforced many of the concepts learned in the program.
+The implementation for A* algorithm was required for the final project in this nanodegree. This was one of the many fun ones to do. Conceptually, it is easy to understand since it combines the Djikstra and Greedy Best-First-Search. My implementation is probably a little different than is typically done as I used recursion. It seemed appropriate and I reinforced many of the concepts learned in the program.
 
 ---
 
